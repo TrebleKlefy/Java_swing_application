@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="EDIN J.A.jnlp">
+  <information>
+    <title>EDIN J.A</title>
+    <vendor>ASUS</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+  </resources>
+  <application-desc main-class="Froms.LoginForm"  name="EDIN J.A" >
+  </application-desc>
+  <update check="always"/>
+</jnlp>
